@@ -1,5 +1,5 @@
 __all__ = ['op', 'kernel']
-
+import sys
 import cv2 as cv
 
 # NB: Register function in specific module
