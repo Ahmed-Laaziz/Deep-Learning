@@ -4,7 +4,7 @@ from PyQt5 import QtWidgets#classe permettent de créer uen fenetre afin de fixe
 from PyQt5.QtWidgets import QDialog #classe se base des boites de dialogue
 import tkinter as Tk
 import sys#il ajoute le chemin spécifique 
-import cv2
+
 import pyttsx3#bibliothèque de synthése vocale
 from tkinter import filedialog
 from tkinter import *
